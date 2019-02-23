@@ -1,8 +1,7 @@
 # Kattis
-Kattis problems I am working on:
-- 
-solved:
--
+# Kattis problems I am working on:
+ 
+# solved:
 - Autori
 - Bijele
 - Faktor
