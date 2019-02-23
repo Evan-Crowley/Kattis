@@ -1,8 +1,6 @@
 # Kattis
 
-## Kattis problems I am working on
-
-## solved
+## Kattis problems I have solved
 
 - Above Average
 - Apaxiaaaaaaaaans!
