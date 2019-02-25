@@ -63,7 +63,7 @@ void solve(ui K, ui N) {
     ui s1 = S1(N);
     ui s2 = S2(N);
     ui s3 = S3(N);
-    printf("%d %d %d %d\n", K, s1, s2, s3);
+    cout << K << " " << s1 << " " << s2 << " " << s3 << endl;
 }
 
 // main entry point
