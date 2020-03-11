@@ -71,7 +71,7 @@ int main(int argc, char * argv[])
                 ss >> food;
                 cout << food << ": food input" << endl;
                 new Food(food, name);
-                foods.push_back(Food);
+                //foods.push_back(Food);
             }
             printVector(foods);
         }
